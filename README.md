@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Nirwani</h1>
 <h2>About me ⚡</h2>
-<h3 align="center">Actively seeking exciting opportunities in the field of Software development/Information Technology where I can Utilize and improve upon the skills gained, simultaneously focusing on enhancing the company’s productivity. I am a fast learner, detail-oriented, responsible and committed engineer with experience in the field of Software Engineering, Android Application Development, Database management and Data Analysis with diverse coding skills.</h3>
+<h3 align="center">Actively seeking exciting opportunities in the field of Software development/Information Technology where I can Utilize and improve upon the skills gained, simultaneously focusing on enhancing the company’s productivity. I am a fast learner, detail-oriented, responsible and committed engineer with experience in the field of Software Engineering, Android Application Development, Database management and Data Analysis with diverse coding skills</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamnirwani" alt="shivamnirwani" /></a> </p>
 
