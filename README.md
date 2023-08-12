@@ -32,6 +32,7 @@ I'm Actively seeking exciting opportunities in the field of Software development
 [![](https://img.shields.io/badge/-maongodb-000?&logo=mongodb)](https://github.com/Shivamnirwani)
 [![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://github.com/Shivamnirwani)
 [![](https://img.shields.io/badge/-MySql-000?&logo=MySql)](https://github.com/Shivamnirwani)
+
 [![](https://img.shields.io/badge/-Flask-000?&logo=Flask)](https://github.com/Shivamnirwani)
 [![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)](https://github.com/Shivamnirwani)
 [![](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=007396)](https://github.com/Shivamnirwani)<h1></h1>
