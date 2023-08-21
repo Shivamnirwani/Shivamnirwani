@@ -9,7 +9,7 @@ I'm Actively seeking exciting opportunities in the field of Software development
 
 ### Languages
 
-[![Java]([https://img.icons8.com/color/48/java-coffee-cup-logo--v2.png?logo=true](https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png))](https://github.com/Shivamnirwani)
+[![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v2.png?logo=true)](https://github.com/Shivamnirwani)
 [![Java](https://img.shields.io/badge/-Java-000)](https://github.com/Shivamnirwani)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://github.com/Shivamnirwani)
 [![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala)](https://github.com/Shivamnirwani)
