@@ -50,7 +50,7 @@ I'm Actively seeking exciting opportunities in the field of Software development
   
 
 
-<a href="https://shivamnirwani.xyz?ref=github">
+<a href="https://github.com/Shivamnirwani">
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamnirwani&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
 
