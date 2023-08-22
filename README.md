@@ -2,13 +2,15 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <h2> <a href="https://shivamnirwani.com" target="blank">
    Visit Portfolio
-   <i class="fas fa-external-link-alt"></i>
 </a></h2>
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://github.com/Shivamnirwani)
+[Visit our external site](https://www.example.com) &#xf35d;
+[Visit our external site](https://www.example.com) [![External Link Icon](https://raw.githubusercontent.com/example/repo/main/icons/external-link-alt.svg)]
 
   
 I'm Actively seeking exciting opportunities in the field of Software development/Information Technology where I can Utilize and improve upon the skills gained, simultaneously focusing on enhancing the company’s productivity. I am a fast learner, detail-oriented, responsible and committed engineer with experience in the field of Software Engineering, Android Application Development, Database management and Data Analysis with diverse coding skills.
 
-[![](https://img.shields.io/badge/-Linkedin-FFF?&logo=Linkedin&icon_color=fff,bg_color=0)](https://www.linkedin.com/in/shivamnirwani/)
+[![](https://img.shields.io/badge/-Linkedin-FFF?&logo=Linkedin&logocolor=blue)](https://www.linkedin.com/in/shivamnirwani/)
 [![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord&logocolor=#0000CC)](https://discord.com/)
 [![](https://cp-logo.vercel.app/codechef/codechef1?logo=true)](https://www.codechef.com/dashboard?itm_medium=navmenu&itm_campaign=dashboard)
 
