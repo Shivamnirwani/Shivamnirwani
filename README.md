@@ -1,5 +1,11 @@
 <h1 align="center">Hi, <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> I'm Shivam Nirwani </h1>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<h2> <a href="https://www.example.com" target="_blank">
+   Visit Portfolio
+   <i class="fas fa-external-link-alt"></i>
+</a></h2>
 
+  
 I'm Actively seeking exciting opportunities in the field of Software development/Information Technology where I can Utilize and improve upon the skills gained, simultaneously focusing on enhancing the company’s productivity. I am a fast learner, detail-oriented, responsible and committed engineer with experience in the field of Software Engineering, Android Application Development, Database management and Data Analysis with diverse coding skills.
 
 [![](https://img.shields.io/badge/-Linkedin-FFF?&logo=Linkedin&icon_color=fff,bg_color=0)](https://www.linkedin.com/in/shivamnirwani/)
@@ -53,4 +59,5 @@ I'm Actively seeking exciting opportunities in the field of Software development
 <a href="https://github.com/Shivamnirwani">
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamnirwani&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
+
 
