@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shivam Nirwani </h1>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-<h2> <a href="https://shivamnirwani.com" target="blank">
+<h2> <a href="https://shivamnirwani.github.io/" target="blank">
    Visit Portfolio >>
 </a></h2>
   
